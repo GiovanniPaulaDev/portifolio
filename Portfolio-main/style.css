@@ -354,7 +354,7 @@ button.experiencia__botao--repo {
 }
 
 section.formcontato {
-    width: 1440px;
+    width: 100%;
     padding:32px 140px;
     /* padding-left: 140px;
     padding-right: 140px;
@@ -452,10 +452,8 @@ span.formcontato__botao--enviar a button {
 }  
 
 section.footer {
-    width: 1440px; 
+    width: 100%; 
     background-color: white;
-    padding-left: 140px;
-    padding-right: 140px;
     display: flex;
     justify-content: space-evenly; 
 }
